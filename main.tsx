@@ -1,27 +1,9 @@
 /** @jsx h */
 
-import blog, { ga, redirects, h } from "blog";
+import blog from "blog";
 
 blog({
-  title: "My Blog",
-  description: "This is my new blog.",
-  // header: <header>Your custom header</header>,
-  // section: <section>Your custom section</section>,
-  // footer: <footer>Your custom footer</footer>,
-  avatar: "https://deno-avatar.deno.dev/avatar/blog.svg",
-  avatarClass: "rounded-full",
-  author: "An author",
-
-  // middlewares: [
-
-    // If you want to set up Google Analytics, paste your GA key here.
-    // ga("UA-XXXXXXXX-X"),
-
-    // If you want to provide some redirections, you can specify them here,
-    // pathname specified in a key will redirect to pathname in the value.
-    // redirects({
-    //  "/hello_world.html": "/hello_world",
-    // }),
-
-  // ]
+  avatar: "https://avatars.githubusercontent.com/u/34133492?s=400&u=d436989e9a8bec2dc2e049c6f2dcfc38af7606dc&v=4",
+  avatarClass: "",
+  author: "Fedya Petrakov",
 });
