@@ -3,8 +3,6 @@ title: Project file structure
 publish_date: 2022-11-01
 ---
 
-# Foreword
-
 Firstly, it's essential to state that file structure is an important part of architecture. Folders and file names are like road signs which help not to go astray and stick to the architecture. That's why I sometimes use terms 'architecture' and 'file structure' interchangeably. Although, these road signs are important, they are not stopping a driver from crashing his car into a tree. Keep it in mind.
 
 # The problem
